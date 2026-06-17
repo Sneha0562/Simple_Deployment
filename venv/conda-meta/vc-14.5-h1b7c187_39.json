@@ -1,0 +1,32 @@
+{
+  "build": "h1b7c187_39",
+  "build_number": 39,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.51.36231"
+  ],
+  "extracted_package_dir": "C:\\Users\\SNEHA HEGDE\\anaconda3\\New folder\\pkgs\\vc-14.5-h1b7c187_39",
+  "files": [],
+  "fn": "vc-14.5-h1b7c187_39.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\SNEHA HEGDE\\anaconda3\\New folder\\pkgs\\vc-14.5-h1b7c187_39",
+    "type": 1
+  },
+  "md5": "2eacea63f545b97342da520df6854276",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\SNEHA HEGDE\\anaconda3\\New folder\\pkgs\\vc-14.5-h1b7c187_39.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "17693b60cb54f80c60275f003f3bfc1b128af56dbfd65c4fae37c64eeb755ce1",
+  "size": 20362,
+  "subdir": "win-64",
+  "timestamp": 1781320968000,
+  "track_features": "vc14",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vc-14.5-h1b7c187_39.conda",
+  "version": "14.5"
+}
